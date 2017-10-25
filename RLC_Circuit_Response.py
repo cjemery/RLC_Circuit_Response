@@ -48,7 +48,7 @@ vc,s = integrate.odeint(rlc,[0.0,0.0],time).T  #(function,initial values,time)
 i=1.0e-9*s #current
 
 figure('Voltage vs Time')
-file.write('Current Data: \n')
+#file.write('Current Data: \n')
 #file.write(str(i))
 plot(time,vc)
 xlabel('t')
