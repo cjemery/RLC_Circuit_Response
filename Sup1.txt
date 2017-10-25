@@ -1,0 +1,3 @@
+The response of the circuit is: 
+UnderDamped
+Current Data: 

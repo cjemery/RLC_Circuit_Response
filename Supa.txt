@@ -1,0 +1,10 @@
+To solve a second order RLC circuit, provide the following values:
+
+Initial Voltage source (Vs):
+1.0
+Capacitor (C-in Fradads):
+1.0e-9
+Inductor (L-in Henrys):
+100.00e-9
+Resistance (R-in Ohms):
+3.3
